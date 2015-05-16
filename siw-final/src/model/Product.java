@@ -1,7 +1,8 @@
 package model;
 
 public class Product {
-	//Funziona CAZZZZZZZZOOOOOOOOOOOOOOOOOOoo
+	//Funziona CAZZZZZZZZOOOOOOOOOOOOOOOOOOoo !!!!!!!!
+	
 	private String name;
 	private String description;
 	private Double price;

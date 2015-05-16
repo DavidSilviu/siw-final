@@ -1,6 +1,7 @@
-package model;
+package src.model;
 
 public class Product {
+	//Funziona CAZZZZZZZZOOOOOOOOOOOOOOOOOOoo
 	private String name;
 	private String description;
 	private Double price;
